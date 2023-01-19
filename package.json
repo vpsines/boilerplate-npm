@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "vyshnav sasidharan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "vyshnav sasidharan",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
