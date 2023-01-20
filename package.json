@@ -4,7 +4,8 @@
 	"desctription": "A node js project for beginners",
 	"keywords": [ "freecodecamp", "words" ],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    	"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"license": "MIT",
